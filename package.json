@@ -1,6 +1,5 @@
 {
   "name": "image-webpack-loader",
-  "os": [ "!darwin" ],
   "version": "1.6.3",
   "description": "Image loader module for webpack",
   "author": "Thomas Coopman @tcoopman",
